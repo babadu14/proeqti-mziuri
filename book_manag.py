@@ -1,7 +1,7 @@
 from flask import Flask, render_template, redirect, session, url_for, request
 from flask_sqlalchemy import SQLAlchemy
 import os
-#privet levan rogor xar?
+#privet levan rogor xar? nichevo brat tavad
 from utils import check_in_session
 
 app = Flask(__name__)
